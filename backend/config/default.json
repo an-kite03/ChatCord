@@ -1,0 +1,4 @@
+{
+    "MONGO_URI" : "mongodb+srv://ankitm03012004:<chatcord_prj>@cluster0.7uj3pbq.mongodb.net/?retryWrites=true&w=majority",
+    "JWT_SECRET":"ankit"
+}
